@@ -8,7 +8,7 @@ Data from kaggle: https://www.kaggle.com/datasets/ifteshanajnin/carinsuranceclai
 
 Data Science project that focus on predicting if a car owner with insurance is going to file a claim or not. The algoritm used was a GBR classifier. The model predicts very poorly despite the high accuracy, it is because the bad quality of the data and the class imbalance problem despite this last one was solved.
 
-![Alt text](imagenes/Procesos.JPG)
+![Alt text](imagenes/Procesos.jpg)
 
 ### Steps:
 First  we import the dataset from kaggle.
